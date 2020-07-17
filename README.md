@@ -6,6 +6,7 @@
 
 # Basic Entry Screenshot
 
+![Alt text](/screenshots/entry.png?raw=true "Optional Title")
    
    
 
